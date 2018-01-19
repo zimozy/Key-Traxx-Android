@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "262781059288",
+    "firebase_url": "https://keytraxx-715db.firebaseio.com",
+    "project_id": "keytraxx-715db",
+    "storage_bucket": "keytraxx-715db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262781059288:android:cac186732fe4ed90",
+        "android_client_info": {
+          "package_name": "com.ibgsoftware.keytraxx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "262781059288-sl6gg3jegtoo3n4m1d8j0fve4adluvu3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZu-RAbyvG8T9gX7LxPVQbbwK6DWbCZ04"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

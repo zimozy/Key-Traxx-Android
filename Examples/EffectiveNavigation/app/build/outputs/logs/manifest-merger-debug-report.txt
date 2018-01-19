@@ -1,0 +1,147 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/ibgtraining4/Android/Examples/EffectiveNavigation/app/src/main/AndroidManifest.xml:17:1-38:12
+INJECTED from /Users/ibgtraining4/Android/Examples/EffectiveNavigation/app/src/main/AndroidManifest.xml:17:1-38:12
+INJECTED from /Users/ibgtraining4/Android/Examples/EffectiveNavigation/app/src/main/AndroidManifest.xml:17:1-38:12
+INJECTED from /Users/ibgtraining4/Android/Examples/EffectiveNavigation/app/src/main/AndroidManifest.xml:17:1-38:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/ibgtraining4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/23dde7610e9414acb58648e86ae52576/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/ibgtraining4/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/06a2bf7e4eb3ac3a5aa9bcc8040845ae/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/ibgtraining4/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/d400b5aaf76808fc801898548d7f6238/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] /Users/ibgtraining4/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/5b5c8d3b3fee4bc68f6461ef4d5d3051/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/ibgtraining4/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/afe99d57283e6bb9b5aa5ac93910ab03/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/ibgtraining4/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/4643af1bfea4b110b672509c0cb10687/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/ibgtraining4/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/5dac4dfa87672bd8c49556ae84720cf5/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/ibgtraining4/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/ff94ab21288db5bd059226da43090dc0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] /Users/ibgtraining4/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/18bc0b98f3815dc3ef491b43067189c7/AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/ibgtraining4/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/d8668cd13ea807ab3d7ec69d5cf1be95/AndroidManifest.xml:17:1-30:12
+INJECTED from /Users/ibgtraining4/Android/Examples/EffectiveNavigation/app/src/main/AndroidManifest.xml:17:1-38:12
+INJECTED from /Users/ibgtraining4/Android/Examples/EffectiveNavigation/app/src/main/AndroidManifest.xml:17:1-38:12
+INJECTED from /Users/ibgtraining4/Android/Examples/EffectiveNavigation/app/src/main/AndroidManifest.xml:17:1-38:12
+	package
+		ADDED from /Users/ibgtraining4/Android/Examples/EffectiveNavigation/app/src/main/AndroidManifest.xml:18:5-54
+		INJECTED from /Users/ibgtraining4/Android/Examples/EffectiveNavigation/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ibgtraining4/Android/Examples/EffectiveNavigation/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/ibgtraining4/Android/Examples/EffectiveNavigation/app/src/main/AndroidManifest.xml:20:5-30
+		INJECTED from /Users/ibgtraining4/Android/Examples/EffectiveNavigation/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ibgtraining4/Android/Examples/EffectiveNavigation/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/ibgtraining4/Android/Examples/EffectiveNavigation/app/src/main/AndroidManifest.xml:17:11-69
+	android:versionCode
+		ADDED from /Users/ibgtraining4/Android/Examples/EffectiveNavigation/app/src/main/AndroidManifest.xml:19:5-28
+		INJECTED from /Users/ibgtraining4/Android/Examples/EffectiveNavigation/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ibgtraining4/Android/Examples/EffectiveNavigation/app/src/main/AndroidManifest.xml
+uses-sdk
+ADDED from /Users/ibgtraining4/Android/Examples/EffectiveNavigation/app/src/main/AndroidManifest.xml:22:5-44
+INJECTED from /Users/ibgtraining4/Android/Examples/EffectiveNavigation/app/src/main/AndroidManifest.xml:22:5-44
+INJECTED from /Users/ibgtraining4/Android/Examples/EffectiveNavigation/app/src/main/AndroidManifest.xml:22:5-44
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/ibgtraining4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/23dde7610e9414acb58648e86ae52576/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/ibgtraining4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/23dde7610e9414acb58648e86ae52576/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/ibgtraining4/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/06a2bf7e4eb3ac3a5aa9bcc8040845ae/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/ibgtraining4/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/06a2bf7e4eb3ac3a5aa9bcc8040845ae/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/ibgtraining4/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/d400b5aaf76808fc801898548d7f6238/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/ibgtraining4/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/d400b5aaf76808fc801898548d7f6238/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /Users/ibgtraining4/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/5b5c8d3b3fee4bc68f6461ef4d5d3051/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /Users/ibgtraining4/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/5b5c8d3b3fee4bc68f6461ef4d5d3051/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/ibgtraining4/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/afe99d57283e6bb9b5aa5ac93910ab03/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/ibgtraining4/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/afe99d57283e6bb9b5aa5ac93910ab03/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/ibgtraining4/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/4643af1bfea4b110b672509c0cb10687/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/ibgtraining4/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/4643af1bfea4b110b672509c0cb10687/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/ibgtraining4/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/5dac4dfa87672bd8c49556ae84720cf5/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/ibgtraining4/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/5dac4dfa87672bd8c49556ae84720cf5/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/ibgtraining4/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/ff94ab21288db5bd059226da43090dc0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/ibgtraining4/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/ff94ab21288db5bd059226da43090dc0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/ibgtraining4/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/18bc0b98f3815dc3ef491b43067189c7/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/ibgtraining4/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/18bc0b98f3815dc3ef491b43067189c7/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/ibgtraining4/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/d8668cd13ea807ab3d7ec69d5cf1be95/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/ibgtraining4/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/d8668cd13ea807ab3d7ec69d5cf1be95/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/ibgtraining4/Android/Examples/EffectiveNavigation/app/src/main/AndroidManifest.xml:22:5-44
+INJECTED from /Users/ibgtraining4/Android/Examples/EffectiveNavigation/app/src/main/AndroidManifest.xml:22:5-44
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/ibgtraining4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/23dde7610e9414acb58648e86ae52576/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/ibgtraining4/Android/Examples/EffectiveNavigation/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ibgtraining4/Android/Examples/EffectiveNavigation/app/src/main/AndroidManifest.xml:22:5-44
+		INJECTED from /Users/ibgtraining4/Android/Examples/EffectiveNavigation/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/ibgtraining4/Android/Examples/EffectiveNavigation/app/src/main/AndroidManifest.xml:22:15-41
+		INJECTED from /Users/ibgtraining4/Android/Examples/EffectiveNavigation/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ibgtraining4/Android/Examples/EffectiveNavigation/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/ibgtraining4/Android/Examples/EffectiveNavigation/app/src/main/AndroidManifest.xml:24:5-37:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/ibgtraining4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/23dde7610e9414acb58648e86ae52576/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/ibgtraining4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/23dde7610e9414acb58648e86ae52576/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/ibgtraining4/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/06a2bf7e4eb3ac3a5aa9bcc8040845ae/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/ibgtraining4/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/06a2bf7e4eb3ac3a5aa9bcc8040845ae/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/ibgtraining4/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/d400b5aaf76808fc801898548d7f6238/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/ibgtraining4/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/d400b5aaf76808fc801898548d7f6238/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/ibgtraining4/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/5b5c8d3b3fee4bc68f6461ef4d5d3051/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/ibgtraining4/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/5b5c8d3b3fee4bc68f6461ef4d5d3051/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/ibgtraining4/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/afe99d57283e6bb9b5aa5ac93910ab03/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/ibgtraining4/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/afe99d57283e6bb9b5aa5ac93910ab03/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/ibgtraining4/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/4643af1bfea4b110b672509c0cb10687/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/ibgtraining4/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/4643af1bfea4b110b672509c0cb10687/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/ibgtraining4/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/5dac4dfa87672bd8c49556ae84720cf5/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/ibgtraining4/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/5dac4dfa87672bd8c49556ae84720cf5/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/ibgtraining4/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/ff94ab21288db5bd059226da43090dc0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/ibgtraining4/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/ff94ab21288db5bd059226da43090dc0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/ibgtraining4/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/18bc0b98f3815dc3ef491b43067189c7/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/ibgtraining4/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/18bc0b98f3815dc3ef491b43067189c7/AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/ibgtraining4/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/d8668cd13ea807ab3d7ec69d5cf1be95/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/ibgtraining4/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/d8668cd13ea807ab3d7ec69d5cf1be95/AndroidManifest.xml:24:5-28:19
+	android:label
+		ADDED from /Users/ibgtraining4/Android/Examples/EffectiveNavigation/app/src/main/AndroidManifest.xml:24:18-50
+	android:icon
+		ADDED from /Users/ibgtraining4/Android/Examples/EffectiveNavigation/app/src/main/AndroidManifest.xml:25:9-45
+	android:theme
+		ADDED from /Users/ibgtraining4/Android/Examples/EffectiveNavigation/app/src/main/AndroidManifest.xml:26:9-70
+activity#com.example.android.effectivenavigation.MainActivity
+ADDED from /Users/ibgtraining4/Android/Examples/EffectiveNavigation/app/src/main/AndroidManifest.xml:28:9-33:20
+	android:label
+		ADDED from /Users/ibgtraining4/Android/Examples/EffectiveNavigation/app/src/main/AndroidManifest.xml:28:48-80
+	android:name
+		ADDED from /Users/ibgtraining4/Android/Examples/EffectiveNavigation/app/src/main/AndroidManifest.xml:28:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/ibgtraining4/Android/Examples/EffectiveNavigation/app/src/main/AndroidManifest.xml:29:13-32:29
+action#android.intent.action.MAIN
+ADDED from /Users/ibgtraining4/Android/Examples/EffectiveNavigation/app/src/main/AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from /Users/ibgtraining4/Android/Examples/EffectiveNavigation/app/src/main/AndroidManifest.xml:30:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/ibgtraining4/Android/Examples/EffectiveNavigation/app/src/main/AndroidManifest.xml:31:17-77
+	android:name
+		ADDED from /Users/ibgtraining4/Android/Examples/EffectiveNavigation/app/src/main/AndroidManifest.xml:31:27-74
+activity#com.example.android.effectivenavigation.CollectionDemoActivity
+ADDED from /Users/ibgtraining4/Android/Examples/EffectiveNavigation/app/src/main/AndroidManifest.xml:35:9-100
+	android:label
+		ADDED from /Users/ibgtraining4/Android/Examples/EffectiveNavigation/app/src/main/AndroidManifest.xml:35:58-97
+	android:name
+		ADDED from /Users/ibgtraining4/Android/Examples/EffectiveNavigation/app/src/main/AndroidManifest.xml:35:19-57
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/ibgtraining4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/23dde7610e9414acb58648e86ae52576/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/ibgtraining4/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/06a2bf7e4eb3ac3a5aa9bcc8040845ae/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/ibgtraining4/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/06a2bf7e4eb3ac3a5aa9bcc8040845ae/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/ibgtraining4/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/d400b5aaf76808fc801898548d7f6238/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/ibgtraining4/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/d400b5aaf76808fc801898548d7f6238/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/ibgtraining4/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/5b5c8d3b3fee4bc68f6461ef4d5d3051/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/ibgtraining4/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/5b5c8d3b3fee4bc68f6461ef4d5d3051/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/ibgtraining4/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/afe99d57283e6bb9b5aa5ac93910ab03/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/ibgtraining4/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/afe99d57283e6bb9b5aa5ac93910ab03/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/ibgtraining4/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/4643af1bfea4b110b672509c0cb10687/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/ibgtraining4/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/4643af1bfea4b110b672509c0cb10687/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/ibgtraining4/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/5dac4dfa87672bd8c49556ae84720cf5/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/ibgtraining4/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/5dac4dfa87672bd8c49556ae84720cf5/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/ibgtraining4/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/ff94ab21288db5bd059226da43090dc0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/ibgtraining4/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/ff94ab21288db5bd059226da43090dc0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/ibgtraining4/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/18bc0b98f3815dc3ef491b43067189c7/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/ibgtraining4/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/18bc0b98f3815dc3ef491b43067189c7/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/ibgtraining4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/23dde7610e9414acb58648e86ae52576/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/ibgtraining4/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/23dde7610e9414acb58648e86ae52576/AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/ibgtraining4/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/d8668cd13ea807ab3d7ec69d5cf1be95/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/ibgtraining4/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/d8668cd13ea807ab3d7ec69d5cf1be95/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/ibgtraining4/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/d8668cd13ea807ab3d7ec69d5cf1be95/AndroidManifest.xml:26:13-58

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="FirebaseLogin" parent="FirebaseUI">
+        <!-- Required for sign-in flow styling -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+        <item name="android:colorControlNormal">@color/colorPrimary</item>
+
+        <item name="colorControlNormal">@color/normal</item>
+        <item name="colorControlActivated">@color/activated</item>
+        <item name="colorControlHighlight">@color/highlight</item>
+        <item name="android:windowBackground">@color/background</item>
+    </style>
+</resources>
