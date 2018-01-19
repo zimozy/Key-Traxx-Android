@@ -15,7 +15,7 @@ import android.os.Bundle;
 import android.util.Log;
 import android.widget.Toast;
 
-public class MainActivity_btle extends AppCompatActivity {
+public class MainActivityBtle extends AppCompatActivity {
 
     //  CONSTANTS   //
     private static final int REQUEST_ENABLE_BT = 1; // used by startActivityForResult and sent to @Override onActivityResult as requestCode (first parameter)
