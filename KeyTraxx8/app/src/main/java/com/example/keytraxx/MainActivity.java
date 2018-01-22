@@ -14,12 +14,33 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         Button btnActivationActivity = findViewById(R.id.btnActivationActivity);
+        Button btnMapActivity           = findViewById(R.id.btnMapActivity);
+        Button btnCarActivity           = findViewById(R.id.btnCarActivity);
+
+        btnMapActivity.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                startActivity(
+                        new Intent(getApplicationContext(), MapActivity.class)
+                );
+            }
+        });
 
         btnActivationActivity.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent intent = new Intent(getApplicationContext(), ActivationActivity.class);
-                startActivity(intent);
+                startActivity(
+                        new Intent(getApplicationContext(), ActivationActivity.class)
+                );
+            }
+        });
+
+        btnCarActivity.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                startActivity(
+                        new Intent(getApplicationContext(), CarActivity.class)
+                );
             }
         });
 

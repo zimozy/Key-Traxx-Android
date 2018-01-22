@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "614611852970",
+    "firebase_url": "https://key-traxx.firebaseio.com",
+    "project_id": "key-traxx",
+    "storage_bucket": "key-traxx.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614611852970:android:7d430267906f0a97",
+        "android_client_info": {
+          "package_name": "com.example.keytraxx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "614611852970-o8m7kv5sch8bi6rtar1juglvc065inft.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.keytraxx",
+            "certificate_hash": "b01851e0974ebc0ee77098defea04921b9438d34"
+          }
+        },
+        {
+          "client_id": "614611852970-hap4rib7aki4qplkembqsd021km1gobl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCs71xIX2McRIazS5IHke9rzb_Idqj2hK0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "614611852970-hap4rib7aki4qplkembqsd021km1gobl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "614611852970-dfgr0fcrgl5qv8pjeu8t3j50dardsp59.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.IBG.KeyTraxx",
+                "app_store_id": "6717779050"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
